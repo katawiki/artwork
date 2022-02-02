@@ -1,0 +1,14 @@
+
+# Editors
+.vscode/
+
+# Blender3D
+*.blend[1-9]
+
+# Python files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+dist/
+
